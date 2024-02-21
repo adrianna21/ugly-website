@@ -1,0 +1,29 @@
+body {
+    background-color: darkorange;
+}
+
+h1 {
+    color: royalblue;
+    background-color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    border-radius: 20px;
+    padding: 500px;
+    border: 1px rgb(77, 35, 42);
+    border-color: aqua;
+}
+
+p {
+    background-color: yellow;
+    color: darkorange;
+    text-align: center;
+    text-decoration: dotted;
+    font-family: Arial, Helvetica, sans-serif;
+}
